@@ -1,0 +1,44 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>res/gear.png</file>
+        <file>res/png-transparent-warship-silhouette-thumbnail.png</file>
+        <file>res/ukraine.png</file>
+        <file>res/united-kingdom.png</file>
+        <file>res/war-ship-146209.png</file>
+        <file>res/ship_easy.png</file>
+        <file>res/ship_mid.png</file>
+        <file>res/ship_hard.png</file>
+        <file>res/icon.png</file>
+        <file>res/boat_side.jpg</file>
+        <file>res/boat_top.jpg</file>
+        <file>res/carrier_side.jpg</file>
+        <file>res/carrier_top_1.jpg</file>
+        <file>res/carrier_top_2.jpg</file>
+        <file>res/carrier_top_3.jpg</file>
+        <file>res/carrier_top_4.jpg</file>
+        <file>res/cruiser_side.jpg</file>
+        <file>res/cruiser_top_1.jpg</file>
+        <file>res/cruiser_top_2.jpg</file>
+        <file>res/cruiser_top_3.jpg</file>
+        <file>res/submarine_side.jpg</file>
+        <file>res/submarine_top_1.jpg</file>
+        <file>res/submarine_top_2.jpg</file>
+        <file>res/carrier_top.jpg</file>
+        <file>res/cruiser_top.jpg</file>
+        <file>res/submarine_top.jpg</file>
+        <file>res/LoadingRadar.gif</file>
+        <file>res/enemy_icon.png</file>
+        <file>res/loading_enemy.gif</file>
+        <file>res/user_icon.png</file>
+        <file>res/mark_hit.png</file>
+        <file>res/mark_miss.png</file>
+        <file>res/mixkit-interface-click-hover-1127.wav</file>
+        <file>res/mixkit-select-click-1109.wav</file>
+        <file>res/mixkit-unlock-new-item-game-notification-254.wav</file>
+        <file>res/mixkit-fish-flapping-2457.wav</file>
+        <file>res/mixkit-sea-mine-explosion-1184.wav</file>
+        <file>res/phantom-116107.wav</file>
+        <file>res/tense-detective-looped-drone-10054.wav</file>
+        <file>res/pngwing.com (1).png</file>
+    </qresource>
+</RCC>
